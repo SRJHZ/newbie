@@ -2,4 +2,4 @@
 
 ## edit the file
 
-a markdown file
+practice scripts for adding, updating files
